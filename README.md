@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="/master/VideoWalkthrough.gif?raw=true" width="200px">
+<img src="https://github.com/gazishahi/Twitter/blob/master/VideoWalkthrough.gif?raw=true" width="200px">
